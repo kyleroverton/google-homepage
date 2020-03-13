@@ -1,0 +1,1 @@
+This is a clone of the google homepage w/o functionality. This is to provide practice for html and css techniques I am learning while going through The Odin Project.
